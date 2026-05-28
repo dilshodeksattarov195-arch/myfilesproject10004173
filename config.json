@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "tokenstringify",
+        "uuid": 31948488,
+        "checksum": "iz5nc"
+    },
+    "settings": {
+        "retries": 1,
+        "enabled": true,
+        "mode": "production"
+    }
+}
